@@ -1,0 +1,10 @@
+git init
+git clone
+git add <file_name>
+git commit <comit message>
+git branch <branch_name>
+git checkout <branch_name>
+git push
+
+git pull
+git merge
